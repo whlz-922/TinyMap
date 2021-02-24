@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/Clear.png</file>
+        <file>resource/map.png</file>
+        <file>resource/myapp.ico</file>
+        <file>resource/NESRI.jpg</file>
+        <file>resource/OpticalCapitalTower.jpg</file>
+        <file>resource/OpticalSquare.jpg</file>
+        <file>resource/OpticalValleyWorldCity.jpg</file>
+        <file>resource/OpticsValley.jpg</file>
+        <file>resource/revise.png</file>
+        <file>resource/Search.png</file>
+        <file>resource/StartIcon.jpg</file>
+        <file>resource/WindowIcon.jpg</file>
+        <file>resource/zoomin.png</file>
+        <file>resource/zoomout.png</file>
+        <file>resource/Opticalmap.jpg</file>
+        <file>resource/maps.txt</file>
+    </qresource>
+</RCC>
